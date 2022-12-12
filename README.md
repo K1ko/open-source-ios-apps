@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1440-green.svg) ![](https://img.shields.io/badge/Updated-December%20%207,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1442-green.svg) ![](https://img.shields.io/badge/Updated-December%2011,%202022-lightgrey.svg)
 
 Jump to
 
@@ -219,6 +219,9 @@ Jump to
   -  <a href='https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png'>`Screenshot 1`</a> 
   -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`73` 
+- [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
+  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
 - [HeartControl](https://github.com/thomaspaulmann/HeartControl): Continuous heart rate measurement during workouts
   -  <a href='https://i.imgur.com/AggsuxA.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/r8El1FE.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/zCkknWc.png'>`Screenshot 3`</a> 
   -  `2021`   `swift` `watchos3` 
@@ -1495,8 +1498,8 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/vladimir-kaltyrin/exchanger/blob/master/screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `viper` `objc` `core-data` 
   -  ☆`11` 
-- [Expenses Tracker](https://github.com/abdorizak/Expensive-Tracker-App): Track daily expense from your income
-  -  <a href='https://raw.githubusercontent.com/abdorizak/Expensive-Tracker-App/main/Screenshots.png'>`Screenshot 1`</a> 
+- [Expense Tracker](https://github.com/abdorizak/Expense-Tracker-App): Track daily expense from your income
+  -  <a href='https://raw.githubusercontent.com/abdorizak/Expense-Tracker-App/main/Screenshots.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`27` 
 - [Gasoline](https://github.com/Blackjacx/Gasoline): Track your gas expense
@@ -2128,6 +2131,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
+  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
 - [Minimalistic Push](https://github.com/jonaspoxleitner/minimalistic_push): Track your push-ups and see an overview of your sessions
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`9` 
@@ -4043,6 +4049,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://i.imgur.com/6Tw24I2.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/akwJw0D.png'>`Screenshot 2`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`23` 
+- [Image Generator with Stable Diffusion v2](https://github.com/ynagatomo/ImgGenSD2)
+  -  <a href='https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `stable-diffusion` 
+  -  ☆`144` 
 - [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully
   - [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
