@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1483-green.svg) ![](https://img.shields.io/badge/Updated-May%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1486-green.svg) ![](https://img.shields.io/badge/Updated-May%2014,%202023-lightgrey.svg)
 
 Jump to
 
@@ -585,7 +585,7 @@ Jump to
   -  `2019` `objc` `webrtc` `google` 
   -  ☆`1330` 
 - [BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat): Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)
-  -  <a href='https://i.imgur.com/z8lEdPMm.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/z8lEdPM.png'>`Screenshot 2`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/236501293-3e613366-e186-4b94-a060-d8aae797b610.jpg'>`Screenshot 1`</a> 
   -  `2017` `objc` `yapdatabase` `purelayout` `mantle` `bluetooth` 
   -  ☆`482` 
 - [Chats](https://github.com/acani/Chats)
@@ -2049,7 +2049,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/swisscovid-preview/id1509275381) <a href='https://github.com/SwissCovid/swisscovid-app-ios/blob/develop/Documentation/screenshots/screenshots.png?raw=true'>`Screenshot 1`</a> 
   -  `2022` `swift` `dp3t` 
   -  ☆`149` 
-- [UK - NHS COVID-19](https://github.com/nihp-public/covid-19-app-ios-ag-public)
+- [UK - NHS COVID-19](https://github.com/ukhsa-collaboration/covid-19-app-ios-ag-public)
   - <a href=https://www.nhsx.nhs.uk>`https://www.nhsx.nhs.uk`</a>
   - [` App Store`](https://apps.apple.com/gb/app/nhs-covid-19/id1520427663) <a href='https://i.imgur.com/UwpQpVv.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -2236,6 +2236,9 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/tice-secure-location-sharing/id1494324936) <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/89/a8/e6/89a8e617-a95d-d1e1-47b1-1f82de971b92/f9f41d98-73f0-4357-ae19-7faad0036a26_iPhone_11_Pro_Max-01TeamScreenWithAnnotation_framed.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/34/ff/0f/34ff0f8d-4607-2651-c7f6-8c56d3520436/be2eaf91-1a01-4dd2-a1cd-cf053e1daaf3_iPhone_11_Pro_Max-04TeamInfoScreen_framed.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/92/09/b8/9209b8d8-de12-e9c7-f4f6-f8d40f8e1cbb/1fcd2bfb-0db6-439f-9f3e-5ebaf51ac431_iPhone_11_Pro_Max-03Chat_framed.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/6f/6d/d6/6f6dd6e4-04ae-de60-0360-7e9b2a61eeea/eff7d3c3-dbc0-4418-be76-bced238dc962_iPhone_11_Pro_Max-05TeamScreen_framed.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2022` `swift` 
   -  ☆`13` 
+- [Toilet Radar Paris](https://github.com/IvanBogdantsev/Toilet-Radar-Paris): Find public toilets
+  - [` App Store`](https://apps.apple.com/app/toilet-radar-paris/id6448686615) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b80a2c3e-42bc-4b24-87e7-c4f26d280ffd'>`Screenshot 1`</a> 
+  - `swift` `rxswift` `navigation` `mvvm` 
 - [tpg offline](https://github.com/tpgoffline/tpg-offline-iOS): Navigate the Geneva public transport
   -  <a href='https://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg'>`Screenshot 1`</a> 
   -  `2019` `swift` `carthage` `alamofire` `locationmanager` 
@@ -2901,6 +2904,10 @@ https://news.ycombinator.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/simple-reader-free-open-source/id1000995253) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c7/31/95/c7319576-6210-9a93-8c03-5a84bc4626f3/mzl.unluhpnm.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/1b/56/b21b5672-08df-a48b-5c4b-43df00cabd08/mzl.dfznlxwe.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/5d/ee/b8/5deeb8e3-0c14-793e-ba28-7a7591cb1a0f/mzl.okdygwvb.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2018` `objc` 
   -  ☆`262` 
+- [Z Combinator for Hacker News](https://github.com/Livinglist/ZCombinator)
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-1.png'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-2.png'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-3.png'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-6.png'>`Screenshot 4`</a> 
+  -  `2023` `swift` `swiftui` 
+  -  ☆`19` 
 ### News API 
  
 https://newsapi.org/ — [back to top](#readme) 
@@ -4308,7 +4315,7 @@ https://flutter.dev — [back to top](#readme)
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
   -  `2022` `flutter` `dart` 
   -  ☆`175` 
-- [Space Empires](https://github.com/rwema3/Space_Empires): A Flutter 4X Space themed strategy game
+- [Space Empires](https://github.com/rwema3/Space_Empires): Space themed strategy game
   -  `2022` `flutter` `dart` 
   -  ☆`34` 
 - [SpaceX GO!](https://github.com/jesusrp98/spacex-go): SpaceX launch tracker
@@ -4940,8 +4947,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [emitron](https://github.com/razeware/emitron-iOS): For https://www.kodeco.com
   -  `2023` `swift` `swiftui` `combine` 
   -  ☆`340` 
-- [EU VAT Number - VIES Freelance](https://github.com/bulbousigloo/VIES)
-  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://raw.githubusercontent.com/bulbousigloo/VIES/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
+- [EU VAT Number - VIES Freelance](https://github.com/OdvojeniFerid/VIES)
+  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://raw.githubusercontent.com/OdvojeniFerid/VIES/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2023` `iphone` `ipad` 
   -  ☆`8` 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
@@ -5207,6 +5214,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)
   -  `2020` `swift` `ios14` `widgetkit` 
   -  ☆`9` 
+- [StepTracker](https://github.com/brittanyarima/Steps)
+  - [` App Store`](https://apps.apple.com/app/id1663569893) <a href='https://user-images.githubusercontent.com/76922883/209883943-03fc014d-778a-429d-8817-79d5a665ba0d.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)
   -  <a href='https://i.imgur.com/gLwqXmY.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `openweathermap` 
@@ -5346,6 +5356,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
   -  `2022` `iphone` `ipad` 
   -  ☆`34` 
+- [Z Combinator for Hacker News](https://github.com/Livinglist/ZCombinator)
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-1.png'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-2.png'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-3.png'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-6.png'>`Screenshot 4`</a> 
+  -  `2023` `swift` `swiftui` 
+  -  ☆`19` 
 ### VIPER 
  
 https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
