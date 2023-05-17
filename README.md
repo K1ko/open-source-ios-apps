@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1486-green.svg) ![](https://img.shields.io/badge/Updated-May%2014,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1489-green.svg) ![](https://img.shields.io/badge/Updated-May%2017,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1107,6 +1107,9 @@ Jump to
   -  <a href='https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`2` 
+- [uhohlingo](https://github.com/nate-parrott/uhohlingo): Like duolingo but you can generate whatever lesson you want
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3d7acd3a-fcf5-4c72-b3ae-f14a397eab8f'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Ulangi](https://github.com/ulangi/ulangi): Learn languages using popular methods such as spaced repetition
   - [` App Store`](https://apps.apple.com/app/id1435524341) <a href='https://i.imgur.com/dd24iEf.png'>`Screenshot 1`</a> 
   -  `2023` `react-native` `ipad` 
@@ -1947,6 +1950,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/open-food-facts/id588797948) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e7/18/27/e71827cd-1fd4-5b81-b52e-2668feed9700/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`311` 
+- [SafePeople](https://github.com/brittanyarima/SafePeople): Get help when struggling with addiction, anxiety, depression.
+  - [` App Store`](https://apps.apple.com/app/safe-people/id1615862411) <a href='https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `core-data` 
 - [Solstice](https://github.com/daneden/Solstice): Tells you how the daylight is changing
   -  `2023` `swift` 
   -  ☆`47` 
@@ -2996,6 +3002,9 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Bluesky Social](https://github.com/bluesky-social/social-app)
+  - [` App Store`](https://apps.apple.com/app/bluesky-social/id6444370199) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8a73b9fb-4708-4ce5-b241-bb8da41feebd'>`Screenshot 1`</a> 
+  - `typescript` `react-native` 
 - [Chrome](https://chromium.googlesource.com/chromium/src/ios/)
   - <a href=https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html>`https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html`</a>
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/15/4d/26/154d2610-1d6e-ed2e-7a7a-698f98e466c1/mzl.fuawsxsw.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg'>`Screenshot 3`</a> 
